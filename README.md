@@ -4,14 +4,14 @@
 **Track**: Track2 (GitHub Data Analysis Project)
 
 ## 1. Problem & User
-This project helps investors understand the risk levels of three major tech stocks: GOOGL, AMZN, META. The target users are individual investors and beginner financial analysts who need data-driven investment references.
+This project helps investors understand the risk levels of three major tech stocks: AAPL, AMZN, NVDA. The target users are individual investors and beginner financial learners who need data-driven investment references.
 
 ## 2. Data
 - Source: WRDS CRSP database
 - Access date: April 2026
 - Time period: 2024-01-01 to 2025-01-01
 - Key fields: date, permno (permanent stock identifier), ret (daily return), prc (closing price)
-- Analyzed stocks: GOOGL, AMZN, META
+- Analyzed stocks: AAPL, AMZN, NVDA
 
 ## 3. Methods
 1. Connect to the WRDS database using Python
@@ -20,10 +20,10 @@ This project helps investors understand the risk levels of three major tech stoc
 4. Visualize price trends and volatility using matplotlib
 
 ## 4. Key Findings
-- META has the highest volatility and the highest investment risk
-- GOOGL is the most stable stock with the lowest volatility
-- AMZN shows moderate risk and steady growth
-- All three stocks trended upward in 2024
+- NVDA has the highest volatility and the highest investment risk (driven by AI chip industry hype and earnings volatility)
+- AAPL is the most stable stock with the lowest volatility (supported by steady consumer electronics sales and cash flow)
+- AMZN shows moderate risk and steady growth (volatility tied to e-commerce seasonality and AWS cloud performance)
+- All three stocks trended upward in 2024, with NVDA leading in growth rate
 
 ## 5. How to Run
 1. Install required libraries: wrds, pandas, matplotlib
@@ -33,7 +33,7 @@ This project helps investors understand the risk levels of three major tech stoc
 5. View charts and results automatically
 
 ## 6. Product Link & Demo
-- GitHub Repository: https://github.com/farrah567/ACC102-Track2
+- GitHub Repository: 
 - Demo Video: Will be uploaded separately
 
 ## 7. Limitations & Next Steps
@@ -42,6 +42,6 @@ Limitations:
 - Macroeconomic factors are not included
 
 Next steps:
-- Extend the data period to 3–5 years
+- Extend the data period to 3-5 years
 - Add more stocks and economic indicators
 - Use machine learning for price prediction
