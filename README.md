@@ -33,7 +33,7 @@ This project helps investors understand the risk levels of three major tech stoc
 5. View charts and results automatically
 
 ## 6. Product Link & Demo
-- GitHub Repository: 
+- GitHub Repository: https://github.com/farrah567/ACC102-Track2/
 - Demo Video: Will be uploaded separately
 
 ## 7. Limitations & Next Steps
