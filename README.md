@@ -32,7 +32,7 @@ d.All output (data results, charts) will be displayed directly in the notebook.
 
 
 6.Product link / Demo 
-GitHub Repository:  
+GitHub Repository:  https://github.com/farrah567/ACC102-Track2
 Demo Video:  
 
 
